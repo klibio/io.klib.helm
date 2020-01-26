@@ -8,7 +8,7 @@ Note: [Chocolatey](https://chocolatey.org/) will make the setup process easier b
 
 1. Activate the Hyper-V hypervisor via the windows feature menu.
 2. Download and install Docker for Windows from [hub.docker.com] (you will need a Docker Hub account for that)
-3. Create a network switch which sahres the itnernet connection with the minikube-vm.
+3. Create a network switch which sahres the internet connection with the minikube-vm.
 
 ### kubectl
 
